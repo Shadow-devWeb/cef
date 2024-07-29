@@ -1,0 +1,14 @@
+@import url(https://fonts.google.com/specimen/Leto);
+@import url(https://fonts.google.com/specimen/Raleway);
+
+h1 h2{
+    font-style: url(../police/Lato/Lato-Black.ttf);
+}
+
+@font-face {
+    font-family: sans-serif;
+    src: url(https://fonts.google.com/specimen/Raleway);
+} 
+p{
+    font-style: url(https://fonts.google.com/specimen/Raleway);
+}

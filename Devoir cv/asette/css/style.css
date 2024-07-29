@@ -1,0 +1,27 @@
+header{
+    background-color: #782221;
+}
+nav{
+    background-color: #2c1d27;
+    height: 50px;
+}
+main{
+    background-color: #782221;
+    width: 350px;
+}
+footer{
+    background-color: #782221;
+}
+h2{
+    background-color: #dbc2a4;
+    width: 280px;
+}
+tr{
+    background-color: #782221;
+}
+header img{
+    width: 100px;
+    height: 100px;
+    box-shadow: 10px 10px 30px;
+    border-radius: 100%;
+}
